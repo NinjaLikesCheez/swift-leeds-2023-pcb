@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+"Battery_Cell","BT2","Battery:BatteryHolder_Keystone_3034_1x20mm","C964834"
+"LED","D1,D2,D3,D4,D5","LED_SMD:LED_0805_2012Metric","C693903"
+"15","R1,R2,R3,R4,R5","Resistor_SMD:R_0805_2012Metric","C136900"

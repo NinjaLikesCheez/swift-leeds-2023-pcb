@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/thedderwick/Desktop/SwiftLeeds/SwiftLeeds.kicad_sch</source>
+    <date>Wednesday, 13 September 2023 at 23:24:50</date>
+    <tool>Eeschema (6.0.10-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>SwiftLeeds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT2">
+      <value>Battery_Cell</value>
+      <footprint>Battery:BatteryHolder_Keystone_3034_1x20mm</footprint>
+      <fields>
+        <field name="LCSC">C964834</field>
+      </fields>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="LCSC" value="C964834"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>487a0111-ea79-4599-b0a6-5bca494e314e</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C693903</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C693903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7b0874a-33e3-4c73-a4a5-d025cfbcc21c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C693903</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C693903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3748fe33-2fdd-4f69-8b78-54539af3cf7b</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C693903</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C693903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f6af24a-7399-494d-ba7b-7da6dab06934</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C693903</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C693903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b71a3c3d-b910-49dc-8b51-51df976812c9</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C693903</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C693903"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bac745c-8c11-4a7a-94f7-ef0ea55807fc</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C136900</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>693813b2-df0e-40f4-b59f-935115912580</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C136900</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f7a8253-f039-4a85-8462-50694a30428f</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C136900</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9dff6786-9ed1-440e-bfd8-ecab46714394</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C136900</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ff1b10d-a1fc-48ed-9e2c-e47925b47c17</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>15</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C136900</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C136900"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SwiftLeeds.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a580dedd-29f2-4d25-9505-235ad4987fa7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(BT2-Pad1)">
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(BT2-Pad2)">
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
