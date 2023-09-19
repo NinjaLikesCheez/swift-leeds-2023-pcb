@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT2,Battery_Cell,BatteryHolder_Keystone_3034_1x20mm,-147.62,-103.64,0,bottom
+D1,LED,LED_0805_2012Metric,-124.898121,-46.683088,-155,bottom
+D2,LED,LED_0805_2012Metric,-141.86,-42.55,180,bottom
+D3,LED,LED_0805_2012Metric,-163.72,-44.55,135,bottom
+D4,LED,LED_0805_2012Metric,-165.97,-63.38,90,bottom
+D5,LED,LED_0805_2012Metric,-162.1,-83.36,70,bottom
+R1,15,R_0805_2012Metric,-134.985235,-67.574765,-135,bottom
+R2,15,R_0805_2012Metric,-136.645235,-69.084765,-135,bottom
+R3,15,R_0805_2012Metric,-138.185235,-70.554765,-135,bottom
+R4,15,R_0805_2012Metric,-139.635235,-72.084765,-135,bottom
+R5,15,R_0805_2012Metric,-140.975235,-73.444765,-135,bottom
