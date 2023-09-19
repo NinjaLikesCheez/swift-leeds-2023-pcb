@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/Users/thedderwick/Desktop/SwiftLeeds/SwiftLeeds.kicad_sch</source>
-    <date>Monday, 18 September 2023 at 23:23:12</date>
+    <date>Tuesday, 19 September 2023 at 21:26:05</date>
     <tool>Eeschema (6.0.10-0)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -39,7 +39,7 @@
     </comp>
     <comp ref="D1">
       <value>LED</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <footprint>LED_SMD:LED_0805_Side</footprint>
       <fields>
         <field name="LCSC">C693903</field>
       </fields>
@@ -52,7 +52,7 @@
     </comp>
     <comp ref="D2">
       <value>LED</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <footprint>LED_SMD:LED_0805_Side</footprint>
       <fields>
         <field name="LCSC">C693903</field>
       </fields>
@@ -65,7 +65,7 @@
     </comp>
     <comp ref="D3">
       <value>LED</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <footprint>LED_SMD:LED_0805_Side</footprint>
       <fields>
         <field name="LCSC">C693903</field>
       </fields>
@@ -78,7 +78,7 @@
     </comp>
     <comp ref="D4">
       <value>LED</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <footprint>LED_SMD:LED_0805_Side</footprint>
       <fields>
         <field name="LCSC">C693903</field>
       </fields>
@@ -91,7 +91,7 @@
     </comp>
     <comp ref="D5">
       <value>LED</value>
-      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <footprint>LED_SMD:LED_0805_Side</footprint>
       <fields>
         <field name="LCSC">C693903</field>
       </fields>
