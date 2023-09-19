@@ -412,13 +412,13 @@
     (property "Value" "Battery_Cell" (id 1) (at 176.53 93.2179 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_Keystone_3034_1x20mm" (id 2) (at 172.72 92.456 90)
+    (property "Footprint" "Battery:BatteryHolder_Keystone_1060_1x2032" (id 2) (at 172.72 92.456 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 172.72 92.456 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C964834" (id 4) (at 172.72 93.98 0)
+    (property "LCSC" "C70377" (id 4) (at 172.72 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e0f75420-8cc0-453c-b17d-47de5ccb63ce))
@@ -563,7 +563,7 @@
 
   (symbol_instances
     (path "/487a0111-ea79-4599-b0a6-5bca494e314e"
-      (reference "BT2") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_3034_1x20mm")
+      (reference "BT2") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_1060_1x2032")
     )
     (path "/a7b0874a-33e3-4c73-a4a5-d025cfbcc21c"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_Side")
